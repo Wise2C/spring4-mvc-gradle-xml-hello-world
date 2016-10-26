@@ -9,6 +9,7 @@ targetCompatibility = 1.7
 
 repositories {
     mavenLocal()
+    maven { url 'http://182.140.210.215:8081/repository/maven-public/' }
     mavenCentral()
 }
 
